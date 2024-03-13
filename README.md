@@ -3,7 +3,7 @@
 Estás escribiendo un texto en tu laptop, pero quieres darle estilo y formato sin complicarte con un lenguaje más "pesado", aquí entra Markdown. Es como tener un conjunto de reglas súper simples que puedes usar mientras escribes para agregar títulos, negritas, enlaces y más. Todo de manera sencilla y eficiente.
 
 ### ¿Por qué utilizamos Markdown?
-Markdown es una herramienta versátil que te permite darle estilo y formato a tu texto sin complicaciones. Lo genial de Markdown es que puedes hacer cosas como poner palabras en negrita o cursiva, crear enlaces, y como ya lo mencionamos anteriormente, hasta hacer listas, todo con solo usar texto normal. Por ejemplo, el texto que se escribe en Markdown es compatible con casi cualquier dispositivo o programa. Así que no importa si estás usando la computadora, el celular o incluso la tablet, siempre podrás acceder y editar tus textos sin problemas.
+Markdown es una herramienta versátil que te permite darle estilo y formato a tu texto sin complicaciones. Lo genial de lenguaje es que puedes hacer cosas como poner palabras en negrita o cursiva, crear enlaces, y como ya lo mencionamos anteriormente, hasta hacer listas, todo con solo usar texto normal. Por ejemplo, el texto que se escribe en Markdown es compatible con casi cualquier dispositivo o programa. Así que no importa si estás usando la computadora, el celular o incluso la tablet, siempre podrás acceder y editar tus textos sin problemas.
 
 En resumen, Markdown es como el aliado cuando se trata de escribir en internet o crear contenido. Es fácil de usar, te da libertad para expresarte y asegura que tu trabajo siempre esté accesible y sobretodo seguro.
 
@@ -27,11 +27,11 @@ Básicamente envolver palabras o textos en estos símbolos para conseguir cursiv
 Se crean escribiendo la palabra o texto enlazada entre [] corchetes, y el link en cuestión entre () paréntesis.
 
 ###### Algo [así](https://learn.microsoft.com/es-es/contribute/content/media/how-to-write-links/bookmark-link.png)
-Tomando en cuenta que lo que va entre paréntesis será el enlace completo del archivo web.
+Tomando en cuenta que lo que va entre paréntesis será el enlace completo del archivo web(esa es la única excepción en la imagen).
 
 #### ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 
-Para crear listas desordenadas se usan * asteriscos, - guiones, o + símbolo de suma.
+Los * asteriscos, - guiones, o + símbolo de suma.
 Este ejemplo lo ilustra de manera más clara: [listadesordenada](https://geekland.eu/wp-content/uploads/2019/04/listas-desordenadas.png)
 
 En conclusión, con Markdown es posible hacer que los documentos se vean geniales con solo recordar ciertas funciones básicas. :)
